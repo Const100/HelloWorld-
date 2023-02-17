@@ -52,4 +52,18 @@ body {
 .game-box {
   height: 556px;
   background: #000915;
+}
+
+.game--item {
+  width: 379px;
+  height: 300px;
+}
+.game--item-1 {
+  background-image: url(img/game1.jpg);
+}
+.game--item-2 {
+  background-image: url(img/game2.jpg);
+}
+.game--item-3 {
+  background-image: url(img/game3.jpg);
 }/*# sourceMappingURL=style.css.map */
