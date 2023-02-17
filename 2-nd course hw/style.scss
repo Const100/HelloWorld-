@@ -54,13 +54,16 @@ background: #000915;
 .game--item {
 	width: 379px;
 	height: 300px;
-&-1 {
+	&-1 {
 	background-image: url(img/game1.jpg);
+	border-radius: 16px;
 }
 &-2 {
 	background-image: url(img/game2.jpg);
+	border-radius: 16px;
 }
 &-3 {
 	background-image: url(img/game3.jpg);
+	border-radius: 16px;
 }
 }
